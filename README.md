@@ -1,4 +1,14 @@
-# 📬 Gmail Order Listener
+gmail-order-listener/
+├── main.py
+├── requirements.txt
+├── README.md
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── app.yaml
+├── firebase.json
+├── .firebaserc
+└── credentials.json (OPTIONAL: only for initial OAuth if needed)# 📬 Gmail Order Listener
 
 Listens to your Gmail inbox for order-related emails and parses them for processing.
 
